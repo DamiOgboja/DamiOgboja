@@ -4,6 +4,7 @@
 <h2>Cyber security projects</h2>
 
 - [Security Audit Lab](https://github.com/DamiOgboja/Security-Audit-Lab)
+- [Incident Responce Analysis Lab](https://github.com/DamiOgboja/Incident-Report-Analysis-Lab)
 <!--
 **DamiOgboja/DamiOgboja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
