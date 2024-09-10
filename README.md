@@ -5,6 +5,7 @@
 
 - [Security Audit Lab](https://github.com/DamiOgboja/Security-Audit-Lab)
 - [Incident Responce Analysis Lab](https://github.com/DamiOgboja/Incident-Report-Analysis-Lab)
+- [Linux File permissions and authorization management lab](https://github.com/DamiOgboja/Linux-file-permissions-management-lab) 
 <!--
 **DamiOgboja/DamiOgboja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
