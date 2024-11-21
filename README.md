@@ -17,9 +17,6 @@
 - [Incident Responce Analysis Lab](https://github.com/DamiOgboja/Incident-Report-Analysis-Lab)
 - [Linux File permissions and authorization management lab](https://github.com/DamiOgboja/Linux-file-permissions-management-lab)
 
-  <h2>Programming projects</h2>
-  
-  - [Adeversarial Apps](https://github.com/AdverseApps/Adversarial-Apps-Web) 
 <!--
 **DamiOgboja/DamiOgboja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
