@@ -6,16 +6,20 @@
 
 - [University of Central Florida Cyber Challenge](https://github.com/DamiOgboja/UCF-Cyber-Challenge)
 
-<h2>Programming projects</h2>
+<h2>Programming Projects</h2>
   
 - [Adeversarial Apps](https://github.com/AdverseApps/Adversarial-Apps-Web)
 
-<h2>Cyber security projects</h2>
+<h2>Cyber Security Projects</h2>
 
 - [Adeversarial Apps](https://github.com/AdverseApps/Adversarial-Apps-Web)
+
+<h2>Google Cyber Security Career Certificate Labs</h2>
+
 - [Security Audit Lab](https://github.com/DamiOgboja/Security-Audit-Lab)
 - [Incident Responce Analysis Lab](https://github.com/DamiOgboja/Incident-Report-Analysis-Lab)
 - [Linux File permissions and authorization management lab](https://github.com/DamiOgboja/Linux-file-permissions-management-lab)
+- [Applying Filters To SQL Queries Lab](https://github.com/DamiOgboja/Applying-filters-to-SQL-queries-Lab)
 
 <!--
 **DamiOgboja/DamiOgboja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
