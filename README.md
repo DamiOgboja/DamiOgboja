@@ -20,6 +20,7 @@
 - [Incident Responce Analysis Lab](https://github.com/DamiOgboja/Incident-Report-Analysis-Lab)
 - [Linux File permissions and authorization management lab](https://github.com/DamiOgboja/Linux-file-permissions-management-lab)
 - [Applying Filters To SQL Queries Lab](https://github.com/DamiOgboja/Applying-filters-to-SQL-queries-Lab)
+- [Analyze Vulnerable System Lab](https://github.com/DamiOgboja/Analyze-Vulnerable-System-Lab)
 
 <!--
 **DamiOgboja/DamiOgboja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
