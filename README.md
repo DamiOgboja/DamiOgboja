@@ -4,7 +4,7 @@
 
 <h2>Cyber Security Experience</h2>
 
-- [University of Central Florida Cyber Challenge](https://github.com/DamiOgboja/UCF-Cyber-Challenge)
+- [University of Central Florida Cyber Challenge 2024](https://github.com/DamiOgboja/UCF-Cyber-Challenge)
 
 <h2>Programming Projects</h2>
   
