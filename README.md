@@ -23,6 +23,10 @@
 - [Applying Filters To SQL Queries Lab](https://github.com/DamiOgboja/Applying-filters-to-SQL-queries-Lab)
 - [Analyze Vulnerable System Lab](https://github.com/DamiOgboja/Analyze-Vulnerable-System-Lab)
 
+<h2>Contact & Networking</h2>
+
+- [LinkedIn](www.linkedin.com/in/oluwadamilola-ogboja)
+- [UCF Handshake](https://ucf.joinhandshake.com/profiles/meug5z)
 <!--
 **DamiOgboja/DamiOgboja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
