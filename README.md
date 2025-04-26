@@ -25,7 +25,7 @@
 
 <h2>Contact & Networking</h2>
 
-- [LinkedIn](www.linkedin.com/in/oluwadamilola-ogboja)
+- [LinkedIn](https://linkedin.com/in/oluwadamilola-ogboja)
 - [UCF Handshake](https://ucf.joinhandshake.com/profiles/meug5z)
 <!--
 **DamiOgboja/DamiOgboja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
