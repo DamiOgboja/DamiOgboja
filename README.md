@@ -1,5 +1,5 @@
 <h1>Hi I'm Dami Ogboja</h1>
-<h1>Computer Science BS graduate of the University of Central Florida, Programmer, Cybersecurity</h1>
+<h1>Computer Science graduate of the University of Central Florida, Programmer, Cybersecurity</h1>
 <h2> As a meticulous programmer with strong written and verbal communication abilities, I am dedicated to protecting organizations and the people they serve by ensuring adherence to security regulations. My passion for programming and cyber security allows me to effectively identify and mitigate potential threats, supporting the security and development goals of various organizations.</h2>
 
 <h2>Cyber Security Experience</h2>
