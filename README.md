@@ -5,6 +5,7 @@
 <h2>Certifications and Licenses</h2>
 
 - [Google Cybersecurity Certificate](https://www.credly.com/badges/efe86685-2fb7-4019-adaa-c779446aa99e/public_url)
+- [TestOut CyberDefense Pro Certification](https://certification.testout.com/verifycert/6-1C6-VAHDD9)
 
 <h2>Cyber Security Experience</h2>
 
