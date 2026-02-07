@@ -4,6 +4,7 @@
 
 <h2>Certifications and Licenses</h2>
 
+- [CompTIA Security+ Certificate](https://www.credly.com/badges/b67df86d-f40c-43f8-ba39-d8670122b4cf/public_url)
 - [Google Cybersecurity Certificate](https://www.credly.com/badges/efe86685-2fb7-4019-adaa-c779446aa99e/public_url)
 - [TestOut CyberDefense Pro Certification](https://certification.testout.com/verifycert/6-1C6-VAHDD9)
 
