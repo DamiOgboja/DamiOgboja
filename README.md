@@ -8,7 +8,11 @@
 - [Google Cybersecurity Certificate](https://www.credly.com/badges/efe86685-2fb7-4019-adaa-c779446aa99e/public_url)
 - [TestOut CyberDefense Pro Certification](https://certification.testout.com/verifycert/6-1C6-VAHDD9)
 
-<h2>Cyber Security Experience</h2>
+<h2>Cyber Security Labs</h2>
+
+- [Vulnerability Assessment of Metasploitable 2 using Nessus](https://github.com/DamiOgboja/Vulnerability-Assessment-Nessus-Metasploitable)
+
+<h2>Cyber Security Challenges</h2>
 
 - [University of Central Florida Cyber Challenge 2024](https://github.com/DamiOgboja/UCF-Cyber-Challenge)
 
