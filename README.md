@@ -12,6 +12,7 @@
 
 - [Vulnerability Assessment of Metasploitable 2 using Nessus](https://github.com/DamiOgboja/Vulnerability-Assessment-Nessus-Metasploitable)
 - [Password Security and Hash Cracking with John The Ripper](https://github.com/DamiOgboja/Password-Security-and-Hash-Cracking-Lab)
+- [Metasploit RCE and C2 Reverse Shell Deployment](https://github.com/DamiOgboja/Metasploit-RCE-and-C2-Reverse-Shell-Deployment)
 
 <h2>Cyber Security Challenges</h2>
 
