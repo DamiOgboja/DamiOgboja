@@ -10,7 +10,7 @@
 
 <h2>Cyber Security Labs</h2>
 
-- [Vulnerability Assessment of Metasploitable 2 using Nessus](https://github.com/DamiOgboja/Vulnerability-Assessment-Nessus-Metasploitable)
+- [Vulnerability Scan and Assessment of Metasploitable 2 using Nessus](https://github.com/DamiOgboja/Vulnerability-Assessment-Nessus-Metasploitable)
 - [Password Security and Hash Cracking with John The Ripper](https://github.com/DamiOgboja/Password-Security-and-Hash-Cracking-Lab)
 - [Metasploit RCE and C2 Reverse Shell Deployment](https://github.com/DamiOgboja/Metasploit-RCE-and-C2-Reverse-Shell-Deployment)
 - [PGP Encryption and Secure Email Communications](https://github.com/DamiOgboja/PGP-Encryption-and-Secure-Email-Communications)
