@@ -11,7 +11,7 @@
 <h2>Cyber Security Labs</h2>
 
 - [Vulnerability Assessment of Metasploitable 2 using Nessus](https://github.com/DamiOgboja/Vulnerability-Assessment-Nessus-Metasploitable)
-- [Password Security and Hash Cracking with John The Ripper Lab](https://github.com/DamiOgboja/Password-Security-and-Hash-Cracking-Lab)
+- [Password Security and Hash Cracking with John The Ripper](https://github.com/DamiOgboja/Password-Security-and-Hash-Cracking-Lab)
 
 <h2>Cyber Security Challenges</h2>
 
