@@ -1,6 +1,6 @@
 <h1>Hi I'm Dami Ogboja</h1>
-<h1>Computer Science graduate of the University of Central Florida, Programmer, Cybersecurity</h1>
-<h2> As a meticulous programmer and cybersecurity professional with strong written and verbal communication abilities, I am dedicated to protecting organizations and the people they serve by ensuring adherence to security regulations. My passion for programming and cyber security allows me to effectively identify and mitigate potential threats, develop and engineer software, and support the security and development goals of organizations.</h2>
+<h1>Computer Science B.S @ UCF | Minor in Secure Computing & Networks | Programmer | Cybersecurity</h1>
+<h2> I specialize in the intersection of software engineering and cybersecurity. Drawing on my background in network security and defense, I am committed to building, engineering, and protecting the systems we rely on.</h2>
 
 <h2>Certifications and Licenses</h2>
 
@@ -21,7 +21,7 @@
 
 <h2>Programming Projects</h2>
   
-- [Adeversarial Apps](https://github.com/AdverseApps/Adversarial-Apps-Web)
+- [Adversarial Apps](https://github.com/AdverseApps/Adversarial-Apps-Web)
 - [MERN-Txt Dump](https://github.com/colemaring/MERN-txtdump)
 
 <h2>Google Cyber Security Certificate Labs</h2>
