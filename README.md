@@ -1,5 +1,5 @@
 <h1>Hi I'm Dami Ogboja</h1>
-<h1>Computer Science B.S @ UCF | Minor in Secure Computing & Networks | Programmer | Cybersecurity</h1>
+<h1>Computer Science B.S @ UCF | Minor in Secure Computing & Networks | Cybersecurity | Software Engineer</h1>
 <h2> I specialize in the intersection of software engineering and cybersecurity. Drawing on my background in network security and defense, I am committed to building, engineering, and protecting the systems we rely on.</h2>
 
 <h2>Certifications and Licenses</h2>
