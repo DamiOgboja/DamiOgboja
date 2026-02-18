@@ -35,6 +35,8 @@
 <h2>Contact & Networking</h2>
 
 - [LinkedIn](https://linkedin.com/in/oluwadamilola-ogboja)
+- Email: damiogb@gmail.com
+- Location: Jacksonville, FL
 <!--
 **DamiOgboja/DamiOgboja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
