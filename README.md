@@ -10,7 +10,7 @@
 
 <h2>Cyber Security Labs</h2>
 
-- [Splunk SIEM Home Lab](https://github.com/DamiOgboja/Splunk-SIEM-Home-Lab)
+- [Splunk SIEM Home Lab (In Progress)](https://github.com/DamiOgboja/Splunk-SIEM-Home-Lab)
 - [Vulnerability Scan and Assessment of Metasploitable 2 using Nessus](https://github.com/DamiOgboja/Vulnerability-Assessment-Nessus-Metasploitable)
 - [Password Security and Hash Cracking with John The Ripper](https://github.com/DamiOgboja/Password-Security-and-Hash-Cracking-Lab)
 - [Metasploit RCE and C2 Reverse Shell Deployment](https://github.com/DamiOgboja/Metasploit-RCE-and-C2-Reverse-Shell-Deployment)
