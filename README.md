@@ -24,6 +24,7 @@
   
 - [Adversarial Apps](https://github.com/AdverseApps/Adversarial-Apps-Web)
 - [MERN-Txt Dump](https://github.com/colemaring/MERN-txtdump)
+- [Custom Compiler Lexical Analyzer](https://github.com/DamiOgboja/Custom-Compiler-Lexical-Analyzer-C-)
 
 <h2>Google Cyber Security Certificate Labs</h2>
 
